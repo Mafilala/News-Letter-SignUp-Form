@@ -13,7 +13,7 @@ function App() {
       SetSubscribed={SetSubscribed}
     />
   );
-  if (subscribed) jsx = <Thank email={email} />;
+  if (subscribed) jsx = <Thank SetSubscribed={SetSubscribed} email={email} />;
   return <>{jsx}</>;
 }
 
