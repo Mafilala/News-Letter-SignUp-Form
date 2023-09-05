@@ -3,7 +3,11 @@ import "./thank.styles.css";
 const Thank = ({ email }) => {
   return (
     <div className="thank-you-box">
-      <img className="thank-you-icon" src="src/assets/icon-list.svg" alt="" />
+      <img
+        className="thank-you-icon"
+        src="src/assets/images/icon-success.svg"
+        alt=""
+      />
       <div className="message-container">
         <h1>Thanks for subscribing!</h1>
         <p>

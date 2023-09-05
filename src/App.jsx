@@ -20,7 +20,7 @@ const Subscribe = ({ email, setEmail, SetSubscribed }) => {
         <Form email={email} setEmail={setEmail} SetSubscribed={SetSubscribed} />
       </article>
       <div className="image-container right">
-        <img src="/public/images/illustration-sign-up-desktop.svg" alt="" />
+        <img src="src/assets/images/illustration-sign-up-desktop.svg" alt="" />
       </div>
     </main>
   );
