@@ -50,7 +50,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](git@github.com:Mafilala/News-Letter-SignUp-Form.git)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://rad-fairy-3a179e.netlify.app/)
 
 ### Built with
 
