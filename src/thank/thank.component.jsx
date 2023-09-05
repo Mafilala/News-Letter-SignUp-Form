@@ -12,7 +12,7 @@ const Thank = ({ email }) => {
         <h1>Thanks for subscribing!</h1>
         <p>
           A confirmation email has been sent to <strong>{email}</strong>. Please
-          open it and click the button inside to confirm your subscription.
+          open it and click the button inside to confirm your subscription(s).
         </p>
       </div>
 
