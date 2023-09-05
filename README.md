@@ -29,19 +29,19 @@ Users should be able to:
 
 #### Desktop View
 
-![](/public/screenshots/desktop.png)
+![](/src/assets/screenshots/desktop.png)
 
 #### Desktop Error
 
-![](/public/screenshots/desktop-error.png)
+![](/src/assets/screenshots/desktop-error.png)
 
 #### Desktop Thank You View
 
-![](/public/screenshots/desktop-thank.png)
+![](/src/assets/screenshots/desktop-thank.png)
 
 #### Mobile View
 
-![](/public/screenshots/mobile.png)
+![](/src/assets/screenshots/mobile.png)
 
 #### Moble Error View
 
