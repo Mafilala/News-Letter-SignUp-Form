@@ -43,7 +43,7 @@ Users should be able to:
 
 ![](/src/assets/screenshots/mobile.png)
 
-#### Moble Error View
+#### Moble Thank you View
 
 ![](/src/assets/screenshots/mobile-thank.png)
 
