@@ -5,7 +5,7 @@ const Thank = ({ email }) => {
     <div className="thank-you-box">
       <img
         className="thank-you-icon"
-        src="src/assets/images/icon-success.svg"
+        src="../assets/images/icon-success.svg"
         alt=""
       />
       <div className="message-container">
