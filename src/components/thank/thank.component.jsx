@@ -1,9 +1,9 @@
 import "./thank.styles.css";
 
-const Thank = ({ email, setSubscribed }) => {
+const Thank = ({ email, SetSubscribed }) => {
   return (
     <div className="thank-you-box">
-      <img className="thank-you-icon" src="" alt="" />
+      <img className="thank-you-icon" src="/icon-success.svg" alt="" />
       <div className="message-container">
         <h1>Thanks for subscribing!</h1>
         <p>
@@ -12,7 +12,7 @@ const Thank = ({ email, setSubscribed }) => {
         </p>
       </div>
 
-      <button onClick={() => setSubscribed(false)} className="dimiss-button">
+      <button onClick={() => SetSubscribed(false)} className="dimiss-button">
         {" "}
         Dismiss message
       </button>
