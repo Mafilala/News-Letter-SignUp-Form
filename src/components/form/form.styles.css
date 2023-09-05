@@ -1,0 +1,44 @@
+label,
+button {
+  display: block;
+}
+form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+button,
+input {
+  height: 50px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button {
+  margin-top: 25px;
+  background-color: var(--Dark-Slate-Grey);
+  color: var(--White);
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  border: none;
+}
+button:hover {
+  background-color: var(--Tomato);
+}
+label {
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+input {
+  padding: 5px 20px;
+}
+.label-and-message-container {
+  display: flex;
+  justify-content: space-between;
+}
+.label-and-message-container p {
+  color: var(--Tomato);
+}
+.invalid {
+  border: 1px solid var(--Tomato);
+  color: var(--Tomato);
+  background-color: hsl(4, 100%, 67%, 0.3);
+}
