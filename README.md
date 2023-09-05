@@ -45,7 +45,7 @@ Users should be able to:
 
 #### Moble Error View
 
-![](public/screenshots/mobile-thank.png)
+![](/src/assets/screenshots/mobile-thank.png)
 
 ### Links
 
