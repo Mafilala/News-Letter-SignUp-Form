@@ -29,23 +29,23 @@ Users should be able to:
 
 #### Desktop View
 
-![](./src/assets/screenshots/desktop.png)
+![](/public/screenshots/desktop.png)
 
 #### Desktop Error
 
-![](./src/assets/screenshots/desktop-error.png)
+![](/public/screenshots/desktop-error.png)
 
 #### Desktop Thank You View
 
-![](./src/assets/screenshots/desktop-thank.png)
+![](/public/screenshots/desktop-thank.png)
 
 #### Mobile View
 
-![](./src/assets/screenshots/mobile.png)
+![](/public/screenshots/mobile.png)
 
 #### Moble Error View
 
-![](./src/assets/screenshots/mobile-thank.png)
+![](public/screenshots/mobile-thank.png)
 
 ### Links
 
